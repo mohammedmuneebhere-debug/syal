@@ -1,0 +1,9 @@
+{
+  "name": "SYAL",
+  "description": "A smart, conversational personal assistant supporting English and Hinglish with Online/Offline awareness.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera",
+    "geolocation"
+  ]
+}
